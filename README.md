@@ -2,6 +2,8 @@
 
 Food delivery app per il ristorante italiano "La Tavola" - Autentica cucina italiana dal 1985.
 
+🔗 **[LIVE DEMO](https://la-tavola-three.vercel.app/)**
+
 ## ✨ Funzionalità
 
 - **Homepage** con hero section e menu interattivo
